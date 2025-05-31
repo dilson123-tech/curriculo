@@ -19,7 +19,8 @@ Este repositório contém meu currículo profissional em PDF, atualizado para 20
 
 ## 📎 Arquivos
 
-- `Curriculo_Dilson_Dev_Atualizado.pdf` — versão em PDF pronta para envio.
+- [📄 Currículo em PDF](Curriculo_Dilson_Dev_Atualizado.pdf) — versão em PDF pronta para envio.
+
 
 ---
 
